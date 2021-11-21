@@ -1,0 +1,80 @@
+body {
+  background-image:url(sfondo.jpg);
+  background-size: cover;
+  color: white;
+
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 1200px;
+  margin: auto;
+  margin-top: 35px;
+  padding: 100px;
+  box-sizing: border-box;
+  border-radius: 25px;
+  line-height: 0.5px;
+
+}
+
+header{
+  text-align: center;
+}
+
+img{
+  width: 250px;
+}
+
+.title{
+  color: rgb(0,221,0);
+  font-size: 35px;
+  font-family: arial;
+}
+
+
+.navigator{
+  text-align: center;
+  background-color: rgb(0,221,0);
+  padding: 10px;
+}
+
+.Section {
+  margin-top: 40px;
+  line-height: 10px;
+}
+
+.Name {
+  font-family: arial;
+  font-size: 25px;
+}
+
+.indirizzo {
+  font-size: 15px;
+  font-family: arial;
+}
+
+.Load {
+  font-size: 15px;
+  font-family: arial;
+}
+
+.barra1{
+  height: 30px;
+  width: 35%;
+  background-color: rgb(245,180,83);
+  border-radius: 5px;
+}
+
+.barra2{
+  height: 30px;
+  width: 65%;
+  background-color: rgb(0,221,0);
+  border-radius: 5px;
+}
+
+.barra3{
+  height: 30px;
+  width: 25%;
+  background-color: rgb(190,65,65);
+  border-radius: 5px;
+}
